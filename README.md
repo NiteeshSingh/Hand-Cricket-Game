@@ -1,7 +1,6 @@
 # Hand-Cricket-Game
 this project is similar to classical hand cricket game. but  will play with computer instead :)
 
-
 #HOW TO USE/PLAY the game
 
 download or clone the python file

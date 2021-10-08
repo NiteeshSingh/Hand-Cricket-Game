@@ -3,12 +3,12 @@ this project is similar to classical hand cricket game. but  will play with comp
 
 #HOW TO USE/PLAY the game
 
-download or clone the python file
-run it
-as you will run your web cam will open 
-you will be able to see live video feed in a small window 
-if you take your hand in front of webcam it will start detecting your hand
-once its done press q
+download or clone the python file\
+run it\
+as you will run your web cam will open \
+you will be able to see live video feed in a small window \
+if you take your hand in front of webcam it will start detecting your hand\
+once its done press q\
 
 after that actual game begins
 
